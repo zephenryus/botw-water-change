@@ -14,9 +14,9 @@ The new files are generated to an `output/` directory located in the same direct
 
 Drag and drop the tscb file onto `change_water.py` (or `change_water.bat` on Windows).
 
-![Drag and Drop Example](https://github.com/zephenryus/botw-water-change/tree/develop/.github/drag-and-drop.gif "Drag and Drop Example")
+![Drag and Drop Example](https://raw.githubusercontent.com/zephenryus/botw-water-change/master/.github/drag-and-drop.gif "Drag and Drop Example")
 
-![Processing the files](https://github.com/zephenryus/botw-water-change/tree/develop/.github/console-process.gif "Processing the files")
+![Processing the files](https://raw.githubusercontent.com/zephenryus/botw-water-change/master/.github/console-process.gif "Processing the files")
 
 ### From the Commandline
 
@@ -31,7 +31,7 @@ Drag and drop the tscb file onto `change_water.py` (or `change_water.bat` on Win
 1. Rename `MainField - [water type]/` to `MainField/`
 1. Play the game
 
-![Move the files](https://github.com/zephenryus/botw-water-change/tree/develop/.github/move-and-rename.gif "Move the files")
+![Move the files](https://raw.githubusercontent.com/zephenryus/botw-water-change/master/.github/move-and-rename.gif "Move the files")
 
 # Installation
 
